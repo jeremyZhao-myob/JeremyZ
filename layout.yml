@@ -1,0 +1,7 @@
+---
+- id: fieldA
+  label: Field A
+- id: fieldB
+  label: Field B
+- id: sum
+  label: Sum
