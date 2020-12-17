@@ -1,0 +1,11 @@
+---
+name: My First Form
+model:
+  fields:
+    fieldA:
+      type: number
+    fieldB:
+      type: number
+    sum:
+      type: number
+      value: =fieldA + fieldB
